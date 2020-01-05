@@ -1,0 +1,11 @@
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\bin\Debug\netcoreapp3.0\FormDataKVPCreator.exe
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\bin\Debug\netcoreapp3.0\FormDataKVPCreator.deps.json
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\bin\Debug\netcoreapp3.0\FormDataKVPCreator.runtimeconfig.json
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\bin\Debug\netcoreapp3.0\FormDataKVPCreator.runtimeconfig.dev.json
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\bin\Debug\netcoreapp3.0\FormDataKVPCreator.dll
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\bin\Debug\netcoreapp3.0\FormDataKVPCreator.pdb
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\obj\Debug\netcoreapp3.0\FormDataKVPCreator.csproj.CoreCompileInputs.cache
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\obj\Debug\netcoreapp3.0\FormDataKVPCreator.AssemblyInfoInputs.cache
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\obj\Debug\netcoreapp3.0\FormDataKVPCreator.AssemblyInfo.cs
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\obj\Debug\netcoreapp3.0\FormDataKVPCreator.dll
+G:\backup\FormDataKVPCreator\FormDataKVPCreator\obj\Debug\netcoreapp3.0\FormDataKVPCreator.pdb
